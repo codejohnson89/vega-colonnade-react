@@ -1,0 +1,10 @@
+@import '../node_modules/@heartlandone/vega/style/vega.css';
+@import './site.css';
+
+main {
+    height: 80vh;
+}
+
+vega-dropdown:hover {
+    // cursor: pointer;
+}
